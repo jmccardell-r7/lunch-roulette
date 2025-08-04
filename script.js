@@ -13,7 +13,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { "name": "Wagamama", "price": 15.00 },
         { "name": "M&S", "price": 5.00 },
         { "name": "Snax in the City", "price": 7.50 },
-        { "name": "Subway", "price": 7.50 }
+        { "name": "Subway", "price": 7.50 },
+        { "name": "Urban Fresh", "price": 5.00 },
     ];
 
     // Get references to all the interactive HTML elements
