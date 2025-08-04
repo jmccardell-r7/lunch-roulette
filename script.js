@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { "name": "Snax in the City", "price": 7.50 },
         { "name": "Subway", "price": 7.50 },
         { "name": "Urban Fresh", "price": 5.00 },
+        { "name": "Seed", "price": 10.00 }
     ];
 
     // Get references to all the interactive HTML elements
