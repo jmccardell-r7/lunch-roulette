@@ -17,6 +17,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { "name": "Urban Fresh", "price": 5.00 },
         { "name": "Seed", "price": 10.00 },
         { "name": "Pret-a-manger", "price": 6.50 },
+        { "name": "Sawers", "price": 9.00 },
+        { "name": "Cuban Sandwich Factory", "price": 10.00 },
         { "name": "Arthurs", "price": 5.50 }
     ];
 
