@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lunch Roulette</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>&#127832; Lunch Roulette</h1>
+        <p>Set your budget and let fate choose your lunch!</p>
+
+        <div class="controls">
+            <div class="price-controls">
+                <label for="minPrice">Set your price range (£):</label>
+                <div class="price-inputs">
+                    <input type="number" id="minPrice" value="0" min="0" step="1" aria-label="Minimum Price">
+                    <span>to</span>
+                    <input type="number" id="maxPrice" value="20" min="0" step="1" aria-label="Maximum Price">
+                </div>
+            </div>
+
+            <button id="pickButton" disabled>Find Me Lunch!</button>
+        </div>
+
+        <div id="result" class="result-box">
+            </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
