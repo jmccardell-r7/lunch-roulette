@@ -27,6 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { "name": "Slim Chickens", "price": 15.00 },
         { "name": "Common Market", "price": 15.00 },
         { "name": "Nandos", "price": 15.00 },
+        { "name": "Yangtzee", "price": 10.00 },
         { "name": "Arthurs", "price": 5.50 }
     ];
 
