@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { "name": "Boojum", "price": 10.00 },
         { "name": "Greggs", "price": 5.00 },
         { "name": "Orto", "price": 10.00 },
-        { "name": "Taste", "price": 7.50 },
+        { "name": "Taste", "price": 8.00 },
         { "name": "Centra", "price": 7.50 },
         { "name": "Five Guys", "price": 15.00 },
         { "name": "Burger King", "price": 12.50 },
@@ -19,6 +19,14 @@ document.addEventListener('DOMContentLoaded', () => {
         { "name": "Pret-a-manger", "price": 6.50 },
         { "name": "Sawers", "price": 9.00 },
         { "name": "Cuban Sandwich Factory", "price": 10.00 },
+        { "name": "Chubby Cherub", "price": 10.00 },
+        { "name": "Baps", "price": 12.00 },
+        { "name": "Slabs", "price": 10.00 },
+        { "name": "Juice Jar", "price": 10.00 },
+        { "name": "Tim Hortons", "price": 8.00 },
+        { "name": "Slim Chickens", "price": 15.00 },
+        { "name": "Common Market", "price": 15.00 },
+        { "name": "Nandos", "price": 15.00 },
         { "name": "Arthurs", "price": 5.50 }
     ];
 
